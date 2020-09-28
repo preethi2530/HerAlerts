@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1035880451831",
+    "firebase_url": "https://boss-8842c.firebaseio.com",
+    "project_id": "boss-8842c",
+    "storage_bucket": "boss-8842c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035880451831:android:7541e68c6cc2b47fa5cdf2",
+        "android_client_info": {
+          "package_name": "com.companion.biblio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035880451831-0ci1hqsn728a4ih6tuhrn57grh4lp542.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9CkzZFvVDiLUymJCp-k0Lia3J_JfHJaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035880451831-0ci1hqsn728a4ih6tuhrn57grh4lp542.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
