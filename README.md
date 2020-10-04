@@ -2,7 +2,7 @@
 ## RELAX. SHE IS SAFE.
 #                                                    Title
 
-This project report is about HerAlerts:  a unique women safety and emergency app programmed and designed by Vipula Sail and Jaya Preethi Chamarthi.
+This project report is about HerAlerts:  a women's safety and emergency app programmed and designed by Vipula Sail and Jaya Preethi Chamarthi.
 
 # ABSTRACT
 
