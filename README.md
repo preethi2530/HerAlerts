@@ -37,14 +37,7 @@ BODY:
 8.RESOURCES
 INTRODUCTION
 
-This project wouldn’t have been even conceived if it was not for Prayogshaala: A Bootcamp For Engineering College Girls which was so beautifully curated by Lakshya who has now become our mentor.
 
-Initially started out as an assignment to be submitted for Prayogshaala, HerAlerts has now become a passion for its makers:
-Vipula Sail, Design Thinker and Product Architect and Jaya Preethi Chamarthi, Ace  Programmer (SIH finalist 2019). 
-
-We can’t thank Lakshya enough to have given this opportunity to pair program this app. Being girls in technology, we feel this could be our small contribution to the womankind. We try to achieve nothing less than complete relief to its users as well her trusted ones.
-However, a lot of work still rests to be in done in its public visibility
-and marketing.
 
 # FLUTTER
 Flutter SDK is Google’s UI toolkit for crafting beautiful, natively compiled applications for mobile, web and desktop from a single codebase.
