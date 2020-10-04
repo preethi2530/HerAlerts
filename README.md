@@ -4,8 +4,6 @@
 
 This project report is about HerAlerts:  a unique women safety and emergency app programmed and designed by Vipula Sail and Jaya Preethi Chamarthi.
 
-
-It is made by Vipula Sail for submission to Lakshya Sivaramakrishnan, our mentor on Sunday 4th October,2020.
 # ABSTRACT
 
 Women safety is an issue which is much talked about yet the implementation of the laws taking place on the ground is bare minimum.
@@ -126,6 +124,5 @@ As an add on feature we have introduced self defence videos in our app which the
 2.We worked on it from 28/09/2020 from 04/10/2020.
 
 3.The static app is submitted along with it.
-
 
 
