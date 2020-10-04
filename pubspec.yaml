@@ -26,6 +26,14 @@ dependencies:
     sdk: flutter
   firebase_core: ^0.5.0
   flutter_spinkit: ^4.1.2+1
+  url_launcher: ^5.7.2
+  sms_maintained: ^0.2.5
+  flutter_phone_direct_caller: ^1.0.1
+  sms: ^0.2.0
+  flutube: ^0.8.3
+  
+  file_picker: ^1.9.0+1
+  csv: ^4.0.3
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -34,7 +42,8 @@ dependencies:
   firebase_auth: ^0.18.0+1
   cloud_firestore: ^0.14.0+2
   provider: ^4.3.2+2
-
+  contacts_service: ^0.4.6
+  permission_handler: ^5.0.1+1
 
 dev_dependencies:
   flutter_test:
